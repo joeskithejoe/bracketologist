@@ -1,8 +1,8 @@
 # loadable groups
 groups = {
-    'capones-2024': {
-        'name': 'Capones 2024',
-        'group_id': '38fa0dce-43f6-300d-9551-bb8dae6f38e7',
+    'Maryland-Madness-24': {
+        'name': 'Maryland Madness 24',
+        'group_id': '7603e099-f9da-3071-ba26-25679707984b',
         'year': '2024',
         'type': 'mens',
     }
@@ -11,14 +11,13 @@ groups = {
 
 # username display alias
 username_alias = {
-    'jack_arnold': 'Jack',
-    '4TannerC': 'Tanner',
-    'RohanSh': 'Rohan',
-    'spatel18': 'Shiv',
-    'ESPNFAN1204348177': 'Josh',
-    'kshen27': 'Kevin',
-    'Joeyattardo': 'Joey',
-    'ESPNfan8738347467': 'Nick',
-    'Tony84910': 'Tony',
-    'Tzhou1': 'Tim',
+    'Nebrasketball': 'Joey',
+    'LeChamp': 'DylanW',
+    'pay': 'Payton',
+    'Winnerwinnerchickendinner': 'Dad',
+    'Madmom': 'Mom',
+    'WDeep': 'Sai',
+    'MD Brick Layers Union': 'Adam',
+    'Donald Trump Could Never': 'Bryan',
+    'Dylan B's Charity': 'DylanB'
 }
