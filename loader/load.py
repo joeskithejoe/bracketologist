@@ -16,7 +16,7 @@ import db
 
 
 def fetch_group_info(group_id, year, type):
-    url = 'https://fantasy.espn.com/tournament-challenge-bracket%s/%s/en/group?groupID=%s' % (
+    url = 'https://fantasy.espn.com/games/tournament-challenge-bracket-2024/group?id=7603e099-f9da-3071-ba26-25679707984b' % (
         '-women' if type == 'womens' else '', str(year), str(group_id),
     )
     service = Service(executable_path=credentials.path_to_chromedriver)
